@@ -1,2 +1,1 @@
-# -C---Programming
-theory &amp; programmes
+C THEORY CODES
